@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print _alphabet_x10 - priny alphabet
+ *print _alphabet_x10 - print alphabet
  *
  *Return: Always 0.
  */
