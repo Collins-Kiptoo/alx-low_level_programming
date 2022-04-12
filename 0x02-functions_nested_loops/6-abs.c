@@ -3,16 +3,16 @@
 /**
  * _abs - value absolute
  *
- *@n: The int to print
+ *@x: The int to print
  * Return: Always 0.
  */
 int _abs(int x)
 {
-if(x < 0)
+if (x < 0)
 {
 return (x * (-1));
 }
-else if(x == 0)
+else if (x == 0)
 {
 return (0);
 }
