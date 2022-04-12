@@ -1,7 +1,8 @@
-#include "main.h" 
+#include "main.h"
 /**
- *code expected to printout _putchar
+ * main -Entry point
  *
+ *Return: nothing, return void
  */
 
 
