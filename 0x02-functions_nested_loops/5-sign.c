@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *int-print_sign - show sign
+ *print_sign - show sign
  *@n: shows value to be worked on
- *return: always return 0;
+ *return:0 or 1
  */
 int print_sign(int n)
 {
