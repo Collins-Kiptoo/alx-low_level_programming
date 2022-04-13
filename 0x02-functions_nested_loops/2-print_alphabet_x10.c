@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * 2-print _alphabet_x10 - print alphabet
- *
- * Return: Always 0.
+ * print_alphabet_x10 - prints alphabet 10 times
+ * Return:void
  */
 void print_alphabet_x10(void)
 {
