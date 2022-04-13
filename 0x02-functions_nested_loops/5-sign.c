@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print_sign - show sign
+ *print_sign - return 0 letter not lowercase, 1 letter lowercase
  *@n: shows value to be worked on
  *return:0 or 1
  */
