@@ -21,5 +21,5 @@ else
 _putchar('-');
 return (-1);
 }
-return (n);
+return (0);
 }
