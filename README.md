@@ -1,1 +1,1 @@
-My first README
+Directory README
